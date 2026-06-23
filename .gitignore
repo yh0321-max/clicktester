@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# User data
+clicktest_records.json
+
+# IDE
+.vscode/
+.idea/
