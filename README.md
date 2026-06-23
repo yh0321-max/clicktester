@@ -27,7 +27,7 @@
 ### 从源码运行
 
 ```bash
-git clone https://github.com/yourname/clicktester.git
+git clone https://github.com/yh0321-max/clicktester.git
 cd clicktester
 pip install -r requirements.txt
 python main.py
