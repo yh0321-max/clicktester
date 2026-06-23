@@ -50,6 +50,10 @@ pyinstaller --onefile --windowed --name "ClickTester" main.py
 5. 点击 **▶ 开始测试** → 在选区内疯狂点击！
 6. 查看结果和历史记录 📋
 
+## 📥 下载
+
+前往 [Releases](https://github.com/yh0321-max/clicktester/releases) 页面下载最新版 `ClickTester.exe`，无需安装 Python 即可运行。
+
 ## 🛠️ 技术栈
 
 - **Python 3.10+**
