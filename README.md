@@ -76,3 +76,7 @@ clicktester/
 ## 📄 License
 
 MIT License
+
+---
+
+🤖 *本项目由 DeepSeek V4 Pro 独立编写*
